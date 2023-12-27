@@ -1,3 +1,8 @@
 * {
     background-color: dimgray;
 }
+
+.title {
+    height: 400px;
+    width: auto;
+}
